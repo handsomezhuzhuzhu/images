@@ -1,2 +1,2 @@
 # images
-存放图片
+the images of my document 

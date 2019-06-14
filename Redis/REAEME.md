@@ -1,1 +1,1 @@
-the images of Redis server learning
+Illustrations of learning Redis server
